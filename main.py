@@ -6,7 +6,7 @@ def convert_currency (amount, from_currenty, to_currency):
 
     result = c.convert(amount, from_currenty, to_currency)
 
-    return result
+    return resul
 
 amount = float(input("Enter the amount to convert: "))
 
